@@ -1,0 +1,9 @@
+# Python environment for the TTS renderer
+.venv-tts/
+__pycache__/
+# Saved copies of other people's pages: for private study only, never published
+vitamins/raw/
+# Packaged zips duplicate the mp3s already in class/
+vitamins/deliver/*.zip
+# Voice comparison clips, not part of the course
+vitamins/voice-samples/

@@ -1,0 +1,272 @@
+# Notes: batch d
+Pages read: 8. With notes: 8. Skipped: 0 (все страницы по теме).
+
+## T01 Что такое витамин: 13 витаминов, жирорастворимые и водорастворимые, зачем организму
+- d:N1. Идею "болезней недостаточности" в 1912 году выдвинул Казимир Функ: бери-бери, цинга, рахит и пеллагра возникают там, где люди долго едят однообразно, и лечатся добавлением особого вещества в еду ("vital amine", отсюда слово "витамин").
+  - Source: https://hekint.org/2018/09/18/pellagra-a-medical-whodunit/  Quote: "break out in countries where a certain unvarying diet is partaken for long periods"
+  - Kind: story
+  - Level: foundation
+  - Bias: none
+- d:N2. Хронология: в 1926 году впервые выделен в чистом виде тиамин (B1), в 1929 году Нобелевская премия за открытие витаминов, за следующее десятилетие ещё восемь Нобелевских премий за работы о витаминах; в 1937 году фактор против пеллагры опознан как ниацин (B3).
+  - Source: https://hekint.org/2018/09/18/pellagra-a-medical-whodunit/  Quote: "Nutrition was at last recognized as an important aspect of medicine."
+  - Kind: number
+  - Level: foundation
+  - Also: T09
+  - Bias: none
+- d:N3. Витамин A, который не нужен организму сразу, запасается впрок, поэтому его не обязательно получать каждый день (так работают жирорастворимые витамины). NHS: функции A, иммунитет, зрение в сумерках, здоровье кожи и слизистых.
+  - Source: https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/  Quote: "stored for future use. This means you do not need it every day."
+  - Kind: definition
+  - Level: foundation
+  - Also: T06
+  - Bias: none
+
+## T02 Нормы и единицы: RDA/AI/UL, нормы РФ, мкг, МЕ, ретиноловый эквивалент
+- d:N4. Содержание витамина A в еде выражают в микрограммах ретинолового эквивалента (RE). Взрослым 19 до 64 лет нужно 700 мкг в день мужчинам и 600 мкг женщинам (британские нормы, их claim).
+  - Source: https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/  Quote: "expressed as micrograms (µg) of retinol equivalents (RE)"
+  - Kind: number
+  - Level: foundation
+  - Also: T06
+  - Bias: none
+- d:N5. Единицы B12: микрограммы пишут как µg или mcg; 1000 мкг = 1 мг. Суточная величина B12 на американских этикетках: 2,4 мкг. Полезно, чтобы сравнить с таблетками на 1000 мкг.
+  - Source: https://www.veganhealth.org/b12/raw  Quote: "1,000 micrograms equals 1 milligram (mg)."
+  - Kind: definition
+  - Level: foundation
+  - Bias: вегетарианский просветительский сайт (Jack Norris, RD), продукты не продаёт, но пишет в интересах веганского образа жизни.
+
+## T03 Еда как источник: главные продукты, обогащение, потери при хранении и готовке
+- d:N6. Источники ретинола: сыр, яйца, жирная рыба, молоко, йогурт, обогащённые спреды, печень. Бета-каротин, из которого организм делает ретинол: шпинат, морковь, батат, красный перец, манго, папайя, абрикосы. Вывод NHS: всё нужное можно получить из разнообразной еды.
+  - Source: https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/  Quote: "You should be able to get all the vitamin A you need from your diet."
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T06
+  - Bias: none
+- d:N7. Надёжных растительных источников B12 нет; его производят бактерии. B12 есть в мясе, молочных продуктах и яйцах, а веганам доступны обогащённые продукты и недорогие добавки. Пивные и пищевые дрожжи дают B12, только если обогащены.
+  - Source: https://www.veganhealth.org/b12/raw  Quote: "there are no reliable plant sources of B12"
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T05
+  - Bias: вегетарианский просветительский сайт.
+- d:N8. B12 разрушается на свету: добавки и обогащённые продукты стоит хранить в тёмном прохладном месте, лучше в холодильнике. В оглавлении сайта также совет не подвергать готовке весь свой B12.
+  - Source: https://www.veganhealth.org/b12/raw  Quote: "Exposure to light can damage B12"
+  - Kind: technique
+  - Level: core
+  - Also: T14
+  - Bias: вегетарианский просветительский сайт.
+- d:N9. Пеллагра в США исчезла в 1940-х, когда ниацин стали добавлять в хлеб и крупы. Пример того, как обогащение массовых продуктов убирает болезнь целого региона.
+  - Source: https://hekint.org/2018/09/18/pellagra-a-medical-whodunit/  Quote: "faded away quietly in the 1940s after niacin was introduced into everyday foods"
+  - Kind: story
+  - Level: foundation
+  - Also: T09
+  - Bias: none
+
+## T05 B12 и фолат: веганы, пожилые, метформин, беременность и пороки нервной трубки
+- d:N10. Регулятор Великобритании (MHRA, 2022): снижение B12 теперь считается частым побочным эффектом метформина, может затронуть до 1 из 10 принимающих. Риск растёт с дозой и длительностью лечения.
+  - Source: https://www.gov.uk/drug-safety-update/metformin-and-reduced-vitamin-b12-levels-new-advice-for-monitoring-patients-at-risk  Quote: "may affect up to 1 in 10 people who take it"
+  - Kind: number
+  - Level: core
+  - Also: T15
+  - Bias: none
+- d:N11. Совет пациентам на метформине: обратиться к врачу при новой или усиливающейся сильной усталости, болезненном красном языке, покалывании, бледной или желтоватой коже. Метформин не бросать: его продолжают, пока B12 восполняют. Решение только вместе с врачом.
+  - Source: https://www.gov.uk/drug-safety-update/metformin-and-reduced-vitamin-b12-levels-new-advice-for-monitoring-patients-at-risk  Quote: "do not stop your treatment without first discussing this with your doctor"
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T15
+  - Bias: none
+- d:N12. Факторы риска дефицита B12 по MHRA: исходно низкий B12, пожилой возраст, операции на желудке, болезнь Крона, строгое веганство, препараты, мешающие всасыванию (ингибиторы протонной помпы, колхицин), редкие генетические нарушения.
+  - Source: https://www.gov.uk/drug-safety-update/metformin-and-reduced-vitamin-b12-levels-new-advice-for-monitoring-patients-at-risk  Quote: "concomitant medication known to impair vitamin B12 absorption (including proton pump inhibitors or colchicine)"
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T10
+  - Bias: none
+- d:N13. Самое убедительное доказательство про метформин: рандомизированное исследование Aroda et al. (2155 человек). Через 5 лет низкий или пограничный B12 у 19,1% на метформине против 9,5% на плацебо, через 13 лет 20,3% против 15,6% (их claim). Для сравнения, по разным странам частота дефицита у принимающих от 4,3% до 41%.
+  - Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11374140/  Quote: "vitamin B12 deficiency ranges from 4.3% to 41% in patients using metformin"
+  - Kind: number
+  - Level: advanced
+  - Also: T16
+  - Bias: none (обзор в Cureus, авторы заявляют отсутствие конфликтов интересов)
+- d:N14. Кого обзор предлагает проверять на B12 даже без симптомов: метформин 5 лет и дольше, возраст 65+, доза от 1500 мг в день не менее полугода, плюс 12 месяцев и больше препаратов от изжоги (ИПП, H2-блокаторы), уже имеющаяся диабетическая нейропатия. Профилактический приём B12 всем пока не рекомендуется.
+  - Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11374140/  Quote: "Prophylactic treatment with vitamin B12 is not yet recommended"
+  - Kind: test
+  - Level: core
+  - Also: T10
+  - Bias: none
+- d:N15. Простой счётчик "индекс использования метформина": суточная доза в мг, умноженная на годы приёма, делённая на 1000. Значение выше 5 указывает на высокую суммарную нагрузку и повод для анализа (их claim). Пример: 2000 мг в течение 3 лет дают 6.
+  - Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11374140/  Quote: "daily metformin dose (in mg) multiplied by its duration (in years) and divided by 1,000"
+  - Kind: template
+  - Level: advanced
+  - Also: T15
+  - Bias: none
+- d:N16. Лечение дефицита B12 на фоне метформина такое же, как при других причинах. При выраженных симптомах сначала уколы, затем таблетки; высокие дозы внутрь и уколы в целом одинаково эффективны. В одном исследовании 1,2 г карбоната кальция в день вернули уровень B12 у принимающих метформин (их claim).
+  - Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11374140/  Quote: "high-dose oral and parenteral administration of vitamin B12 are equally effective"
+  - Kind: technique
+  - Level: advanced
+  - Also: T15
+  - Bias: none
+- d:N17. Консенсус специалистов: веганам добавка B12 необходима. Веганы, принимающие B12, часто имеют статус B12 лучше, чем у мясоедов. Если не принимать: усталость, покалывание в руках и ногах, анемия, в запущенных случаях слепота, глухота, деменция.
+  - Source: https://www.veganhealth.org/b12/raw  Quote: "Vegans should ensure a reliable source of B12."
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T17
+  - Bias: вегетарианский просветительский сайт.
+- d:N18. Скрытый дефицит B12 может не давать симптомов, но проявляется повышенным гомоцистеином, который связан с когнитивным снижением, инсультом и ранней смертностью (наблюдательные данные). Ощущение "я в порядке" не доказывает достаточность B12.
+  - Source: https://www.veganhealth.org/b12/raw  Quote: "But what if a vegan feels fine and so doesn't bother supplementing with B12?"
+  - Kind: mistake
+  - Level: core
+  - Also: T10
+  - Bias: вегетарианский просветительский сайт.
+- d:N19. Практические приёмы для веганов: если B12 не было больше нескольких месяцев, 2000 мкг раз в день в течение 2 недель, чтобы восполнить запасы; добавки только с B12 разжёвывать, мультивитамины глотать целиком (их claim). Конкретная таблица доз на странице не сохранилась.
+  - Source: https://www.veganhealth.org/b12/raw  Quote: "take 2,000 µg once a day for 2 weeks to replenish your stores"
+  - Kind: technique
+  - Level: core
+  - Also: T17
+  - Bias: вегетарианский просветительский сайт.
+- d:N20. Форма B12: сайт рекомендует цианокобаламин как более стабильный и лучше изученный, а шумиху вокруг метилкобаламина называет в основном пропагандой индустрии добавок. Исключение: при болезни почек избегать высоких доз цианокобаламина и обсудить схему с врачом.
+  - Source: https://www.veganhealth.org/b12/raw  Quote: "The hype around the other forms of B12 is mostly propaganda from the supplement industry."
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T14
+  - Bias: вегетарианский просветительский сайт.
+- d:N21. Кокрейновский обзор 5 испытаний (7391 беременность): фолиевая кислота ежедневно до зачатия и до 12 недель беременности снижает риск дефектов нервной трубки примерно на две трети (RR 0,31). Эффект не зависел от дозы при 400 мкг и выше. Качество доказательств высокое.
+  - Source: https://www.cochrane.org/CD007950/PREG_folic-acid-supplementation-prevention-neural-tube-defects  Quote: "Folic acid, alone or in combination with vitamins and minerals, prevents NTDs"
+  - Kind: number
+  - Level: core
+  - Also: T17
+  - Bias: none
+- d:N22. Важное время: фолиевую кислоту рекомендуют с момента, когда женщина пытается забеременеть, а не с момента, когда узнала о беременности. ВОЗ также предлагает женщинам детородного возраста еженедельный приём железа с фолиевой кислотой там, где анемия выше 20%.
+  - Source: https://www.cochrane.org/CD007950/PREG_folic-acid-supplementation-prevention-neural-tube-defects  Quote: "from the moment they are trying to conceive until 12 weeks of pregnancy"
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T17
+  - Bias: none
+- d:N23. Чего фолиевая кислота не доказала: влияния на расщелину губы и нёба, пороки сердца, выкидыши и другие врождённые дефекты данных недостаточно (доказательства низкого качества). Альтернатива 5-MTHF предложена, но изучена мало.
+  - Source: https://www.cochrane.org/CD007950/PREG_folic-acid-supplementation-prevention-neural-tube-defects  Quote: "does not have a clear effect on other birth defects"
+  - Kind: mistake
+  - Level: core
+  - Also: T16
+  - Bias: none
+
+## T06 Витамин A и бета-каротин: печень, беременность, курильщики
+- d:N24. Печень и паштет из печени настолько богаты витамином A, что их не стоит есть чаще раза в неделю; беременным печень и продукты из неё нужно исключить.
+  - Source: https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/  Quote: "if you're pregnant you should avoid eating liver or liver products"
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T17
+  - Bias: none
+
+## T09 Другие витамины группы B: B1, B6 (токсичность), ниацин, биотин
+- d:N25. Пеллагра (недостаток ниацина): красная шелушащаяся сыпь, усиливающаяся на солнце, понос, депрессия, "безумие". В южных штатах США к 1912 году почти 16 000 случаев при смертности до 40%; за 30 лет 3 миллиона больных и более 100 000 смертей (их claim).
+  - Source: https://hekint.org/2018/09/18/pellagra-a-medical-whodunit/  Quote: "becoming the deadliest dietary disease in U.S. history"
+  - Kind: number
+  - Level: foundation
+  - Also: T10
+  - Bias: none
+- d:N26. Нейротоксичность B6 при дозах 250 мг в день и выше установлена давно (в 1983 году описаны 7 пациентов на граммовых дозах). Новое и неясное: возможный сигнал при гораздо меньших дозах, около 10 мг в день. Из 17 случаев, изученных Health Canada, пригодны для оценки только 2, и те с помехами.
+  - Source: https://sciencebasedmedicine.org/new-cautions-about-vitamin-b6-and-peripheral-neuropathy/  Quote: "It appears to be a plausible safety signal, but not definitive proof."
+  - Kind: number
+  - Level: core
+  - Also: T11
+  - Bias: none (автор фармацевт, заявляет отсутствие конфликтов)
+- d:N27. Признаки периферической нейропатии от B6: онемение, покалывание, боль, жжение в руках и ногах. Австралийский регулятор TGA к концу 2025 года получил 250 сообщений о нейропатии, связанной с продуктами с B6.
+  - Source: https://www1.racgp.org.au/newsgp/clinical/ongoing-risk-as-vitamin-b6-warnings-fail-to-dent-s  Quote: "152 reports of symptoms such as burning or paresthesia are 'most likely to be neuropathy'"
+  - Kind: number
+  - Level: core
+  - Also: T11
+  - Bias: none
+- d:N28. Австралия: с марта 2023 года предупреждение на продуктах с B6 больше 10 мг в день, максимум в продукте снижен с 200 до 100 мг; с июня 2027 года продукты больше 50 мг только через фармацевта. Верхний безопасный предел для взрослых в Австралии 50 мг в день, пересматривается.
+  - Source: https://www1.racgp.org.au/newsgp/clinical/ongoing-risk-as-vitamin-b6-warnings-fail-to-dent-s  Quote: "the tolerable upper limit for vitamin B6 in adults is set at 50 mg/day"
+  - Kind: number
+  - Level: core
+  - Also: T14
+  - Bias: none
+
+## T11 Избыток и токсичность: верхние пределы, суммирование из разных продуктов
+- d:N29. Главная ловушка с B6: B6 содержится сразу в нескольких продуктах (мультивитамин, магний, "для энергии"), и при малой дозе в каждом суммарная выходит высокой. Совет врача: принести все баночки или дома сложить общую дозу.
+  - Source: https://www1.racgp.org.au/newsgp/clinical/ongoing-risk-as-vitamin-b6-warnings-fail-to-dent-s  Quote: "if you're taking multiple products you'll quickly increase your dose"
+  - Kind: technique
+  - Level: foundation
+  - Also: T14
+  - Bias: none
+- d:N30. Предупреждения на этикетках почти не повлияли на покупки: за три года в Австралии продано больше 20 миллионов продуктов с B6 выше 5 мг в день и больше 3 миллионов выше 50 мг. Когда убрали дозы 200 мг, люди перешли на 100 до 199 мг (их claim).
+  - Source: https://www1.racgp.org.au/newsgp/clinical/ongoing-risk-as-vitamin-b6-warnings-fail-to-dent-s  Quote: "suggesting substitution rather than a meaningful reduction in exposure"
+  - Kind: number
+  - Level: core
+  - Also: T14
+  - Bias: none
+- d:N31. Витамин A: в среднем больше 1,5 мг (1500 мкг) в день на протяжении многих лет может сделать кости более хрупкими в старости (их claim). Особенно важно женщинам после менопаузы и пожилым мужчинам, у которых выше риск остеопороза.
+  - Source: https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/  Quote: "may affect your bones, making them more likely to fracture when you're older"
+  - Kind: number
+  - Level: core
+  - Also: T06
+  - Bias: none
+- d:N32. Правило суммирования NHS: еда плюс добавки не больше 1,5 мг витамина A в день. Если едите печень раз в неделю, не принимайте добавки с витамином A, включая рыбий жир из печени. Многие мультивитамины уже содержат A.
+  - Source: https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/  Quote: "If you eat liver every week, do not take supplements that contain vitamin A."
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T06
+  - Bias: none
+- d:N33. Большие дозы B12 у небольшого числа людей вызывают высыпания, похожие на акне; стоит снизить дозу, если это заметно. Пример того, что даже "безопасный" водорастворимый витамин не совсем безобиден.
+  - Source: https://www.veganhealth.org/b12/raw  Quote: "Large doses of B12 can trigger acne-like symptoms in a small number of people"
+  - Kind: mistake
+  - Level: core
+  - Bias: вегетарианский просветительский сайт.
+
+## T10 Дефицит: признаки, кто в группе риска, когда сдавать анализы
+- d:N34. Анализ сывороточного B12 может обманывать: он меряет весь B12, включая неактивные формы. Дефицит: ниже 148 пмоль/л, пограничный: ниже 200. Точнее отражают статус голотранскобаламин (активная форма), гомоцистеин и метилмалоновая кислота.
+  - Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11374140/  Quote: "the test may be misleading as it measures the total amount of vitamin B12 in the blood"
+  - Kind: test
+  - Level: advanced
+  - Also: T05
+  - Bias: none
+- d:N35. Нервные повреждения от длительного дефицита B12 (онемение, нарушение походки, потеря памяти, депрессия) часто необратимы, поэтому важна ранняя диагностика. Симптомы похожи на проявления самого диабета, поэтому нужен анализ, а не догадка.
+  - Source: https://www.gov.uk/drug-safety-update/metformin-and-reduced-vitamin-b12-levels-new-advice-for-monitoring-patients-at-risk  Quote: "to avoid the development of permanent symptoms"
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T05
+  - Bias: none
+
+## T14 Качество добавок: регулирование, этикетки, сторонняя проверка
+- d:N36. Канада и Австралия по-разному отреагировали на одни и те же данные о B6: Health Canada потребовала предупреждения только на безрецептурных натуральных продуктах (рецептурный B6 для беременных и так под наблюдением врача), Австралия перевела дозы 50 до 200 мг под контроль фармацевта, решив, что одной этикетки мало.
+  - Source: https://sciencebasedmedicine.org/new-cautions-about-vitamin-b6-and-peripheral-neuropathy/  Quote: "a warning label itself may be insufficient"
+  - Kind: story
+  - Level: core
+  - Also: T09
+  - Bias: none
+
+## T16 Как читать новости о витаминах: наблюдения против РКИ, интересы индустрии, споры
+- d:N37. Миф "витамины это бесплатная страховка: лишнее просто выйдет". Витамины биологически активные вещества; даже малый или неясный риск надо взвешивать против ожидаемой пользы.
+  - Source: https://sciencebasedmedicine.org/new-cautions-about-vitamin-b6-and-peripheral-neuropathy/  Quote: "the absence of perceived risk should never be mistaken for the absence of actual risk"
+  - Kind: mistake
+  - Level: foundation
+  - Also: T11
+  - Bias: none
+- d:N38. Корни идеи "если немного полезно, то больше лучше": ортомолекулярная медицина (термин Лайнуса Полинга) защищала мегадозы витаминов, и после статьи 1983 года о нейропатии от граммовых доз B6 в журнал пришло письмо в защиту мегадоз.
+  - Source: https://sciencebasedmedicine.org/new-cautions-about-vitamin-b6-and-peripheral-neuropathy/  Quote: "if a little is good, more must be better"
+  - Kind: story
+  - Level: core
+  - Also: T11
+  - Bias: none
+- d:N39. Пеллагра как урок метода: комиссия Томпсона-Макфаддена нашла, что молоко связано с меньшим числом случаев, но отбросила это, потому что молоко защищало "не полностью", и решила, что виновата инфекция. Голдбергер затем измерил еду каждого человека и нашёл единственное отличие: доступ к свежим продуктам.
+  - Source: https://hekint.org/2018/09/18/pellagra-a-medical-whodunit/  Quote: "milk 'did not fully insure against the development of the disease.'"
+  - Kind: story
+  - Level: core
+  - Also: T09
+  - Bias: none
+- d:N40. Эксперименты Голдбергера: в двух приютах и больнице (700+ человек) замена рациона на молоко, яйца, бобы и горох почти уничтожила пеллагру (1 рецидив на 400 больных). Затем у добровольцев-заключённых он вызвал пеллагру за полгода кукурузной крупой, печеньем и сиропом. А на "filth parties" вводил себе выделения больных и не заболел.
+  - Source: https://hekint.org/2018/09/18/pellagra-a-medical-whodunit/  Quote: "If anyone ever got pellagra that way, we three should certainly have it good and hard!"
+  - Kind: story
+  - Level: foundation
+  - Also: T09
+  - Bias: none
+
+## Disagreements seen
+- Насколько опасны малые дозы B6: sciencebasedmedicine считает сигнал при 10 мг правдоподобным, но не доказанным, а предупреждения предосторожностью (https://sciencebasedmedicine.org/new-cautions-about-vitamin-b6-and-peripheral-neuropathy/); пострадавший врач Мэри Бьюкенен цитирует TGA, что безопасной минимальной дозы нет (https://www1.racgp.org.au/newsgp/clinical/ongoing-risk-as-vitamin-b6-warnings-fail-to-dent-s).
+- Кому проверять B12 на метформине: MHRA советует анализ при симптомах и "рассмотреть" периодический контроль при факторах риска (https://www.gov.uk/drug-safety-update/metformin-and-reduced-vitamin-b12-levels-new-advice-for-monitoring-patients-at-risk); обзор в Cureus предлагает проверять группы риска даже без симптомов и вообще периодически мониторить всех на метформине (https://pmc.ncbi.nlm.nih.gov/articles/PMC11374140/).
+- Формы B12: veganhealth рекомендует цианокобаламин и называет рекламу метилкобаламина пропагандой индустрии (https://www.veganhealth.org/b12/raw); обзор Cureus нейтрально перечисляет метил- и аденозилкобаламин как варианты лечения (https://pmc.ncbi.nlm.nih.gov/articles/PMC11374140/).
+- Связь метформина и B12 подтверждается почти везде, но небольшое египетское исследование (100 человек) и саудовское (206 человек) не нашли значимой связи или зависимости от дозы (https://pmc.ncbi.nlm.nih.gov/articles/PMC11374140/).
+
+## Best stories
+- Голдбергер и пеллагра: диета богатых излечила приюты, диета бедняков вызвала болезнь у заключённых, а "filth parties" опровергли инфекцию; Юг всё равно отверг выводы из гордости (https://hekint.org/2018/09/18/pellagra-a-medical-whodunit/).
+- Пеллагра исчезла, когда ниацин добавили в хлеб: 3 миллиона больных и 100 000 смертей закончились обогащением муки (https://hekint.org/2018/09/18/pellagra-a-medical-whodunit/).
+- Австралия и B6: предупреждения на этикетках не сократили продаж, люди просто перешли с 200 мг на 199, а теперь высокие дозы уйдут за прилавок фармацевта (https://www1.racgp.org.au/newsgp/clinical/ongoing-risk-as-vitamin-b6-warnings-fail-to-dent-s).
+- От 1983 года к 2026-му: граммовые дозы B6 парализовали семь пациентов, сторонник мегадоз ответил письмом, а через 40 лет регуляторы подозревают вред уже при 10 мг (https://sciencebasedmedicine.org/new-cautions-about-vitamin-b6-and-peripheral-neuropathy/).
+- Метформин, лекарство миллионов диабетиков, тихо снижает B12 у каждого десятого; симптомы маскируются под диабет, но лекарство не бросают, а добавляют B12 (https://www.gov.uk/drug-safety-update/metformin-and-reduced-vitamin-b12-levels-new-advice-for-monitoring-patients-at-risk).

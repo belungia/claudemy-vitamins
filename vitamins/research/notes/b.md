@@ -1,0 +1,331 @@
+# Notes: batch b
+Pages read: 8. With notes: 8. Skipped: 0.
+
+## T01 Что такое витамин
+- b:N1. Человек, в отличие от большинства млекопитающих, не умеет синтезировать витамин C и обязан получать его с едой. Хороший пример того, почему вещество называют витамином.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "Unlike most mammals and other animals, humans do not have the ability to synthesize vitamin C and must obtain it from the diet."
+  - Kind: definition
+  - Level: foundation
+  - Also: T07
+  - Bias: none
+- b:N2. Витамин K жирорастворимый, но запасается его очень мало и он быстро расходуется; организм компенсирует это, многократно перерабатывая одну и ту же молекулу (цикл витамина K). Буква K от датского "koagulation".
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "the body stores very small amounts that are rapidly depleted without regular dietary intake"
+  - Kind: definition
+  - Level: foundation
+  - Also: T08
+  - Bias: none
+
+## T02 Нормы и единицы
+- b:N3. Нормы витамина C (RDA, США): мужчины 90 мг/сут, женщины 75 мг; курильщикам на 35 мг больше (125 и 110), беременным 85, кормящим 120. Норма для курильщиков выше, потому что дым повышает окислительный стресс и снижает уровень C в крови.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "The recommended intake for smokers is 35 mg/day higher than for nonsmokers"
+  - Kind: number
+  - Level: foundation
+  - Also: T07
+  - Bias: none
+- b:N4. Верхний предел (UL) витамина C для взрослых 2 г/сут, и он установлен не из-за токсичности, а чтобы избежать диареи и расстройства ЖКТ. Для детей 1 до 3 лет UL 400 мг, для младенцев не установлен: только еда или смесь.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "A UL of 2 g (2,000 mg) daily was recommended in order to prevent generally healthy adults from experiencing diarrhea"
+  - Kind: number
+  - Level: foundation
+  - Also: T11
+  - Bias: none
+- b:N5. Для витамина K есть только "адекватное потребление" (AI), а не RDA: 120 мкг/сут мужчинам, 90 мкг женщинам; верхний предел не установлен вовсе. AI посчитана только по K1, потребление K2 не учитывалось.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "No tolerable upper intake level ( UL ) has been established for vitamin K"
+  - Kind: number
+  - Level: foundation
+  - Also: T08
+  - Bias: none
+- b:N6. Institute Linus Pauling рекомендует 400 мг витамина C в день, то есть в 4 до 5 раз выше официальной RDA, чтобы насытить ткани (их claim). Хороший пример того, что "норма" зависит от того, кто и под какую цель её считает. Тот же институт советует всем мультивитамин.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "the Linus Pauling Institute recommends a vitamin C intake of 400 mg daily for adults"
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T16
+  - Bias: академический институт, носящий имя Лайнуса Полинга, известного сторонника мегадоз; его рекомендации систематически выше официальных норм.
+
+## T03 Еда как источник
+- b:N7. Пять порций разных овощей и фруктов дают в среднем 150 до 200 мг витамина C. Примеры: киви SunGold 130 мг, клубника (чашка) 85 мг, апельсин 83 мг, полчашки сладкого красного перца 59 мг, яблоко всего 8 мг (их claim).
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "five servings (2½ cup-equivalents) of a variety of fruit and vegetables should average out to about 150 to 200 mg of vitamin C"
+  - Kind: number
+  - Level: foundation
+  - Also: T07
+  - Bias: none
+- b:N8. Главные источники K1: тёмная листовая зелень и растительные масла. Чашка варёной капусты кале 493 мкг, сырого мангольда 299 мкг, четверть чашки петрушки 246 мкг, чашка брокколи 220 мкг (их claim). Наружные листья богаче внутренних, а жир в блюде улучшает усвоение.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "outer leaves have more phylloquinone than inner leaves"
+  - Kind: number
+  - Level: foundation
+  - Also: T08
+  - Bias: none
+- b:N9. K2 (менахиноны) в основном из ферментированных продуктов: японский натто содержит около 998 мкг MK-7 на 100 г, также сыры и печень. Раньше думали, что кишечные бактерии покрывают до половины потребности, но теперь считают их вклад гораздо меньше: K2 делается в толстой кишке, а всасывается витамин в тонкой.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "the contribution of bacterial synthesis to vitamin K status is much less than previously thought"
+  - Kind: definition
+  - Level: core
+  - Bias: none
+- b:N10. Натуральный и синтетический витамин C химически идентичны, разницы в действии и усвоении нет. Флавоноиды в добавках и Ester-C не улучшают усвоение в исследованиях на людях.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "Natural and synthetic L-ascorbic acid are chemically identical"
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T14
+  - Bias: none
+- b:N11. Витамин C усиливает всасывание негемового (растительного) железа из пищи. Практический совет для вегетарианцев: сочетать железосодержащие продукты с источником C.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "vitamin C increases the bioavailability of iron from foods by enhancing intestinal absorption of non- heme iron"
+  - Kind: technique
+  - Level: foundation
+  - Also: T17
+  - Bias: none
+
+## T07 Витамин C: цинга, простуда, стресс и спорт
+- b:N12. История цинги: к концу XVIII века британский флот знал, что цингу лечат апельсины и лимоны, хотя сам витамин C выделили только в начале 1930-х. Для профилактики цинги хватает всего 10 мг в день.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "By the late 1700s, the British navy was aware that scurvy could be cured by eating oranges or lemons"
+  - Kind: story
+  - Level: foundation
+  - Also: T10
+  - Bias: none
+- b:N13. Симптомы цинги: кровоизлияния под кожей, плохое заживление ран, синяки, выпадение волос и зубов, боль и отёк суставов; ранний признак усталость. Всё связано с коллагеном. В развитых странах цинга редка, но бывает у детей, тяжелобольных и пожилых на очень скудной диете.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "cases have occurred in children, critically ill patients , and older adults on very restricted diets"
+  - Kind: definition
+  - Level: foundation
+  - Also: T10
+  - Bias: none
+- b:N14. Cochrane 2013 (63 РКИ, 11 306 человек): регулярный приём витамина C от 0,2 г/сут не снижает число простуд, но сокращает их длительность на 8% у взрослых и на 14% у детей. Приём уже после начала симптомов не помогает.
+  - Source: https://www.mcmasteroptimalaging.org/full-article/es/vitamin-prevent-common-cold-reduce-duration-severity-2  Quote: "Vitamin C did not reduce the number of people who caught colds. While these results were consistent across studies, their effect was small."
+  - Kind: number
+  - Level: core
+  - Also: T16
+  - Bias: none
+- b:N15. Исключение: у людей под сильной физической нагрузкой (марафонцы, лыжники, солдаты в субарктике) регулярный витамин C вдвое снизил частоту простуд (5 испытаний). Для обычных людей эффекта на заболеваемость нет.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "vitamin C supplementation halved the incidence of colds"
+  - Kind: number
+  - Level: core
+  - Bias: none
+- b:N16. Как перевести "8% короче": если простуда длится около недели, это примерно полдня. У детей дозы 1 до 2 г/сут сократили простуду на 18%. Разбор показывает, как "статистически значимо" может быть "мало" в жизни.
+  - Source: https://www.mcmasteroptimalaging.org/full-article/es/vitamin-prevent-common-cold-reduce-duration-severity-2  Quote: "In children, higher doses (1 to 2 grams/day) shortened colds by 18%."
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T16
+  - Bias: none
+- b:N17. Происхождение моды: именно работы Лайнуса Полинга разожгли интерес к мегадозам (больше 1 г/сут) витамина C против простуды; за 40 лет испытаний профилактический эффект на заболеваемость так и не подтвердился.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "The work of Dr. Linus Pauling stimulated public interest in the use of high-dose oral (>1 g/day) vitamin C"
+  - Kind: story
+  - Level: foundation
+  - Also: T16
+  - Bias: страница института имени Полинга
+- b:N18. Усвоение витамина C жёстко регулируется: до 200 мг за раз всасывается почти 100%, выше 500 мг доля падает, а излишек после насыщения плазмы уходит с мочой. Насыщение плазмы наступает примерно при 200 до 400 мг в день.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "Once plasma vitamin C concentrations reach saturation, additional vitamin C is largely excreted in the urine."
+  - Kind: number
+  - Level: core
+  - Also: T11
+  - Bias: none
+- b:N19. Беременность и курение: у курящих беременных, не сумевших бросить, витамин C 500 мг/сут улучшил функцию лёгких новорождённых и уменьшил свистящее дыхание; эффект сохранялся к 5 годам (испытание VCSIP). При этом в целом C при беременности не снижает риск преэклампсии, выкидыша или мертворождения.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "the children of the mothers supplemented with vitamin C had improved airway function"
+  - Kind: story
+  - Level: advanced
+  - Also: T17
+  - Bias: none
+
+## T08 Витамины K и E: свёртывание, варфарин, новорождённые
+- b:N20. Всем новорождённым рекомендуют укол витамина K1 сразу после рождения: запасы K у младенца малы, через плаценту он почти не проходит, в грудном молоке его мало. Без укола возможно опасное внутричерепное кровотечение (VKDB).
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "Because VKDB is life threatening and easily prevented, the American Academy of Pediatrics"
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T17
+  - Bias: none
+- b:N21. История страха: в начале 1990-х две ретроспективные работы связали укол K новорождённым с детской лейкемией. Проверка на 54 000 детей в США и 1,3 млн в Швеции и пул из шести исследований связи не нашли. Но из-за отказов родителей врачи видят рост поздних кровотечений VKDB.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "physicians have reported a rise in late-onset cases of VKDB due to an increasing trend of parental omission or refusal"
+  - Kind: story
+  - Level: core
+  - Also: T16
+  - Bias: none
+- b:N22. Как работает варфарин: он блокирует фермент VKOR и не даёт витамину K перерабатываться, создавая "функциональный дефицит" K. Поэтому большие или скачущие количества K в еде мешают действию препарата.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "Warfarin prevents the recycling of vitamin K by blocking VKOR activity, thus creating a functional vitamin K deficiency"
+  - Kind: definition
+  - Level: core
+  - Also: T15
+  - Bias: none
+- b:N23. Признаки дефицита K: синяки, кровотечения из носа и дёсен, кровь в моче и стуле, чёрный стул, очень обильные месячные. У здоровых взрослых дефицит редок; в группе риска: приём антагонистов K, болезни печени, нарушения всасывания жира (воспалительные болезни кишечника, муковисцидоз).
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "Vitamin K deficiency is uncommon in healthy adults"
+  - Kind: definition
+  - Level: foundation
+  - Also: T10
+  - Bias: none
+- b:N24. Синтетический менадион (K3) в отличие от K1 и K2 токсичен: у младенцев инъекции вызывали поражение печени, желтуху и гемолитическую анемию, поэтому его больше не применяют для лечения дефицита.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "menadione is no longer used for treatment of vitamin K deficiency"
+  - Kind: mistake
+  - Level: core
+  - Also: T11
+  - Bias: none
+- b:N25. Кости и K: в наблюдениях (Nurses' Health Study, 72 000 женщин) при K1 ниже 109 мкг/сут риск перелома бедра на 30% выше. Но испытания добавок K1 на плотность кости почти ничего не дали, и сами авторы предупреждают: много зелени может просто быть маркером здоровой диеты.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "high phylloquinone consumption may simply be an indicator of healthy eating habits"
+  - Kind: mistake
+  - Level: core
+  - Also: T16
+  - Bias: none
+- b:N26. В Японии высокие дозы MK-4 (менатетренон) используют как лекарство от остеопороза, но трёхлетнее испытание MK-7 в Европе на плотность кости не повлияло. Роль добавок K2 для костей не доказана.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "the potential role for supplemental menaquinones on bone health still needs to be established"
+  - Kind: number
+  - Level: advanced
+  - Also: T12
+  - Bias: none
+- b:N27. Сосуды и K2 ("кальций в сосуды не пойдёт"): механизм через белок MGP правдоподобен, связи в наблюдениях есть, но небольшие испытания K2 у людей с диабетом, болезнью почек, кальцинозом клапана пользы не показали. Популярный маркетинговый тезис опережает данные.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "There is only limited evidence of a benefit of supplemental vitamin K in the prevention of vessel calcification"
+  - Kind: mistake
+  - Level: advanced
+  - Also: T16
+  - Bias: none
+
+## T11 Избыток и токсичность
+- b:N28. Почки: две большие когорты не нашли роста камней при 1,5 г C в день и выше, но в Health Professionals Study мужчины с 1 г/сут и выше имели на 41% больше камней, а в шведской когорте одиночные добавки C удвоили риск (их claim). Склонным к оксалатным камням лучше избегать доз от 1 г.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "it may be prudent for individuals predisposed to oxalate kidney stone formation to avoid high-dose vitamin C supplementation"
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T17
+  - Bias: none
+- b:N29. По LPI, надёжных данных о вреде доз витамина C до 10 г/сут у взрослых нет; страшилки про "рикошетную цингу", мутации, разрушение эмали не подтвердились. Это позиция одного источника, она расходится с осторожностью SELECT и Cochrane насчёт высоких доз микронутриентов вообще.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "there is no reliable scientific evidence that oral doses of vitamin C up to 10 g/day in adults are toxic"
+  - Kind: number
+  - Level: core
+  - Bias: институт имени Полинга, исторически защищает высокие дозы C
+
+## T12 Мультивитамины и профилактика болезней
+- b:N30. Наблюдения связывают высокий уровень C в крови с меньшим риском инсульта (EPIC-Norfolk: минус 42% в верхнем квартиле), но РКИ Physicians' Health Study II (14 000 мужчин, 500 мг/сут, 8 лет) не нашло влияния ни на инсульт, ни на инфаркт, ни на рак.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "vitamin C supplementation (500 mg/day) for an average of eight years had no significant effect on the incidence of or mortality from any type of stroke"
+  - Kind: number
+  - Level: core
+  - Also: T16
+  - Bias: none
+- b:N31. Рак: РКИ, проверявшие витамин C (отдельно или с другими антиоксидантами) на заболеваемость и смертность от рака, эффекта не показали. Мегадозы внутривенно при раке остаются экспериментом с ранними результатами, а не стандартом.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "Randomized controlled trials have reported no effect of vitamin C supplementation on cancer risk."
+  - Kind: number
+  - Level: core
+  - Also: T13
+  - Bias: none
+- b:N32. Повышенное давление: витамин C в коротких испытаниях снижал систолическое давление всего на 3,8 мм рт. ст.; LPI прямо говорит не заменять им лекарства, а лечиться вместе с врачом.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "important for individuals with significantly elevated blood pressure not to rely on vitamin C supplementation alone"
+  - Kind: rule of thumb
+  - Level: foundation
+  - Bias: none
+
+## T13 Антиоксиданты и смертность
+- b:N33. Испытание SELECT: 35 533 мужчины 50 лет и старше получали витамин E 400 МЕ/сут, селен, оба или плацебо. Через 7 лет в группе E рак простаты на 17% чаще (620 против 529 случаев; 1,6 лишних случая на 1000 человеко-лет). Добавки, которые должны были защищать, навредили.
+  - Source: https://ecancer.org/en/news/2056-vitamin-e-supplements-increase-risk-of-prostate-cancer  Quote: "Men receiving vitamin E supplements showed a 17% increase in the risk of developing prostate cancer"
+  - Kind: story
+  - Level: core
+  - Also: T12
+  - Bias: none
+- b:N34. Сюжет SELECT во времени: первый отчёт (5,5 лет) показал лишь незначимый рост риска, приём остановили в 2008 из-за отсутствия пользы; вред стал статистически значимым только при продлённом наблюдении в 2011. Вывод авторов: последствия добавок могут проявиться уже после прекращения приёма.
+  - Source: https://www.uspharmacist.com/article/vitamin-e-supplements-and-prostate-cancer-risk  Quote: "The use of the supplements was halted in October 2008 because of an apparent lack of benefit and a possibility of harm."
+  - Kind: story
+  - Level: core
+  - Also: T16
+  - Bias: none
+- b:N35. U-образная кривая: авторы SELECT пишут, что для природных веществ вредны и дефицит, и сверхфизиологические дозы. Они также напоминают про рак лёгких от высоких доз бета-каротина и полипы толстой кишки от высоких доз фолата.
+  - Source: https://ecancer.org/en/news/2056-vitamin-e-supplements-increase-risk-of-prostate-cancer  Quote: "a U-shaped dose response curve may exist where either deficiency or supra-physiological doses are harmful"
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T11
+  - Bias: none
+- b:N36. Антиоксиданты могут ослабить лекарство: в 3-летнем РКИ у 160 сердечников коктейль C, E, селена и бета-каротина снизил защитный эффект симвастатина с ниацином. Более крупное испытание (20 000 человек) такого не нашло, так что вопрос открыт.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "when an antioxidant combination ... was taken with the simvastatin-niacin combination, the protective effects were diminished"
+  - Kind: mistake
+  - Level: advanced
+  - Also: T15
+  - Bias: none
+
+## T15 Взаимодействия с лекарствами и анализами
+- b:N37. Принимающим варфарин не нужно исключать продукты с витамином K, главное есть их стабильно, без резких перемен день ко дню и неделя к неделе. Перед диетой для похудения или переходом на вегетарианство или веганство нужно обсудить это с врачом.
+  - Source: https://www.cuh.nhs.uk/patient-information/dietary-advice-for-patients-taking-warfarin/  Quote: "you do not need to avoid them entirely. However, it is important to consume a consistent amount of such food."
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T08
+  - Bias: none
+- b:N38. Больничная памятка NHS: на варфарине полностью исключить клюквенный, грейпфрутовый и гранатовый соки (они меняют выведение препарата), а зелёный чай пить стабильно, не бросать и не начинать резко. Зверобой, алкоголь и планирование беременности обсудить с врачом или фармацевтом.
+  - Source: https://www.cuh.nhs.uk/patient-information/dietary-advice-for-patients-taking-warfarin/  Quote: "Avoid these entirely while taking warfarin: cranberry juice and cranberry products"
+  - Kind: rule of thumb
+  - Level: foundation
+  - Also: T08
+  - Bias: none
+- b:N39. Небольшое РКИ (46 пациентов с нестабильным МНО): тех, кого учили есть больше зелени и K-богатых масел, через 6 месяцев 50% держали стабильную свёртываемость против 20% в группе общих советов. Автор призывает врачей перестать советовать избегать зелёных овощей (их claim; доклад на конференции, не рецензирован).
+  - Source: https://nutrition.org/eating-more-vitamin-k-found-to-help-not-harm-patients-on-warfarin/  Quote: "Our hope is that healthcare professionals will stop advising warfarin-treated patients to avoid green vegetables"
+  - Kind: story
+  - Level: core
+  - Also: T08, T16
+  - Bias: пресс-релиз профессионального общества (ASN), в членах которого и представители индустрии; данные предварительные, без рецензии.
+- b:N40. Тонкость с добавками K на варфарине: до 100 мкг/сут K1 считается безопасным, но стабильность может нарушить уже 10 до 20 мкг MK-7 в день. Рекомендация LPI: стараться получать AI (90 до 120 мкг) и избегать больших колебаний.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "therapeutic anticoagulant stability may be undermined by daily doses of MK-7 as low as 10 to 20 μg"
+  - Kind: number
+  - Level: advanced
+  - Also: T08, T14
+  - Bias: none
+- b:N41. Большие дозы витамина E (например 1000 МЕ/сут 12 недель) мешают работе витамина K; людям на варфарине и с дефицитом K нельзя принимать добавки E без контроля врача из-за риска кровотечений. Избыток витамина A мешает всасыванию K.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "should not take vitamin E supplements without close medical supervision because of the increased risk of hemorrhage"
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T08
+  - Bias: none
+- b:N42. Витамин C и лекарства: людям на антикоагулянтах держать C ниже 1 г/сут и контролировать протромбиновое время; C повышает всасывание алюминия из антацидов (опасно при больных почках) и может повышать эстроген на оральных контрацептивах. Перед добавками на химиотерапии обсудить с онкологом.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "Individuals taking anticoagulant medications should limit their vitamin C intake to <1 g/day"
+  - Kind: rule of thumb
+  - Level: core
+  - Bias: none
+- b:N43. Большие дозы витамина C искажают некоторые анализы: билирубин, креатинин и тест кала на скрытую кровь. Поэтому врачу нужно сообщать о недавних добавках.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "it is important to inform one's health care provider of any recent supplement use"
+  - Kind: test
+  - Level: foundation
+  - Also: T10
+  - Bias: none
+- b:N44. Препараты против всасывания жира (холестирамин, колестипол, орлистат, вазелиновое масло, олестра) снижают усвоение жирорастворимых витаминов, включая K. Матерям на противосудорожных и противотуберкулёзных препаратах ребёнок рождается с повышенным риском дефицита K.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "may interfere with fat absorption and affect the absorption of fat-soluble vitamins, including vitamin K"
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T17
+  - Bias: none
+- b:N45. Cleveland Clinic о кроверазжижающих: травяные добавки (гинкго, чеснок, мелатонин, куркума, масло мяты, зверобой) только после разговора с врачом; новые антикоагулянты (ривароксабан, апиксабан) не требуют анализов и диетические ограничения по K к ним не относятся так же.
+  - Source: https://health.clevelandclinic.org/vitamin-k-can-dangerous-take-warfarin/amp  Quote: "some of these “don’ts” don’t apply if you’re on one of the newer blood thinners"
+  - Kind: rule of thumb
+  - Level: core
+  - Also: T08
+  - Bias: на странице реклама; клиника заявляет, что не одобряет чужие продукты.
+
+## T16 Как читать новости о витаминах
+- b:N46. Наглядный пример расхождения метода: в трёх больших когортах потребление витамина C по анкетам не связано с гипертонией, а уровень в крови связан. Анкеты о питании страдают ошибками памяти, поэтому биомаркеры надёжнее, но и они не доказывают причину.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "Limitations inherent to dietary assessment methodology, such as recall bias , measurement error , and residual confounding"
+  - Kind: mistake
+  - Level: advanced
+  - Bias: none
+- b:N47. При сепсисе внутривенный витамин C сначала выглядел многообещающе в маленьком испытании (28 пациентов, резкий рост выживаемости), но большое РКИ LOVIT (863 пациента) показало рост смерти или органной недостаточности на 21%. Теперь гайдлайны не рекомендуют IV C при сепсисе.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "Recently published clinical practice guidelines recommend against using intravenous vitamin C to treat adult patients with sepsis"
+  - Kind: story
+  - Level: advanced
+  - Also: T13
+  - Bias: none
+- b:N48. Конференционный доклад не равен опубликованной статье: пресс-релиз ASN сам предупреждает, что тезисы не проходили полного рецензирования и выводы предварительные.
+  - Source: https://nutrition.org/eating-more-vitamin-k-found-to-help-not-harm-patients-on-warfarin/  Quote: "the findings presented should be considered preliminary until a peer-reviewed publication is available"
+  - Kind: test
+  - Level: foundation
+  - Bias: пресс-релиз, цель привлечь внимание
+
+## T17 Особые группы
+- b:N49. Недоношенным младенцам стандартная доза K1 (1 мг) может быть велика; при весе меньше 1000 г некоторые эксперты предлагают 0,3 мг/кг, но лучшую схему ещё ищут. Пример того, что даже "всем" профилактика зависит от ситуации.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-K  Quote: "the standard initial dose of phylloquinone (vitamin K 1 ) for full-term infants (1.0 mg) may be too high for premature infants"
+  - Kind: number
+  - Level: advanced
+  - Also: T08
+  - Bias: none
+- b:N50. Группы риска по дефициту C: в США около 7% людей с дефицитом, у курильщиков 14,6% против 4,4% у некурящих (NHANES 2017-2018), плюс малообеспеченные; 11,5% беременных получают меньше 70 мг/сут. Пожилые часто недобирают даже RDA.
+  - Source: https://lpi.oregonstate.edu/mic/vitamins/vitamin-C  Quote: "smokers had a much higher prevalence compared to nonsmokers (14.6% vs. 4.4%)"
+  - Kind: number
+  - Level: core
+  - Also: T10
+  - Bias: none
+
+## Disagreements seen
+- Витамин K на варфарине: Cleveland Clinic советует ограничивать K-продукты и есть стабильно (https://health.clevelandclinic.org/vitamin-k-can-dangerous-take-warfarin/amp); NHS говорит не исключать, главное стабильность (https://www.cuh.nhs.uk/patient-information/dietary-advice-for-patients-taking-warfarin/); ASN-исследование советует увеличить потребление (https://nutrition.org/eating-more-vitamin-k-found-to-help-not-harm-patients-on-warfarin/); LPI: стабильно получать AI 90 до 120 мкг (https://lpi.oregonstate.edu/mic/vitamins/vitamin-K).
+- Зелёный чай на варфарине: NHS разрешает при стабильном потреблении (https://www.cuh.nhs.uk/patient-information/dietary-advice-for-patients-taking-warfarin/), Cleveland Clinic предлагает заменить его чёрным (https://health.clevelandclinic.org/vitamin-k-can-dangerous-take-warfarin/amp).
+- Сколько витамина C нужно: официальная RDA 75 до 90 мг против рекомендации LPI 400 мг (https://lpi.oregonstate.edu/mic/vitamins/vitamin-C); при этом обзор Cochrane показывает лишь малый эффект даже высоких доз на простуду (https://www.mcmasteroptimalaging.org/full-article/es/vitamin-prevent-common-cold-reduce-duration-severity-2).
+- Высокие дозы: LPI считает C до 10 г/сут безвредным (https://lpi.oregonstate.edu/mic/vitamins/vitamin-C), авторы SELECT призывают к осторожности с высокими дозами любых микронутриентов (https://ecancer.org/en/news/2056-vitamin-e-supplements-increase-risk-of-prostate-cancer).
+- Приём C при начале простуды: Cochrane-резюме McMaster: не помогает (https://www.mcmasteroptimalaging.org/full-article/es/vitamin-prevent-common-cold-reduce-duration-severity-2); LPI формулирует мягче, "limited benefits" (https://lpi.oregonstate.edu/mic/vitamins/vitamin-C).
+
+## Best stories
+- Британский флот лечил цингу лимонами в XVIII веке, за полтора столетия до открытия витамина C (https://lpi.oregonstate.edu/mic/vitamins/vitamin-C).
+- SELECT: витамин E давали 35 000 мужчинам для защиты от рака простаты, а получили плюс 17% рака, причём вред проявился уже после остановки приёма (https://ecancer.org/en/news/2056-vitamin-e-supplements-increase-risk-of-prostate-cancer).
+- Ложная тревога про укол витамина K и лейкемию: опровергнута на 1,3 млн детей, но отказы родителей вернули поздние кровотечения у младенцев (https://lpi.oregonstate.edu/mic/vitamins/vitamin-K).
+- Варфарин и брокколи: пациентов учили есть больше зелени, и стабильных стало 50% против 20% (https://nutrition.org/eating-more-vitamin-k-found-to-help-not-harm-patients-on-warfarin/).
+- Сепсис и IV витамин C: маленькое испытание обещало чудо, большое LOVIT показало вред (https://lpi.oregonstate.edu/mic/vitamins/vitamin-C).
